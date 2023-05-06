@@ -1,6 +1,11 @@
-## ELEVATOR PROJECT
+# Elevator-Project
 
-This project is an implementation of an elevator using Object Oriented Programming in C++. The elevator carries people from one floor to another, based on the user's input. The project includes a UML design, OOP C++ code, and a GUI created using C++ Builder.
+![Elevator-without-rope](https://user-images.githubusercontent.com/102630199/236635284-f038afc0-21c8-4f4b-b7f4-f89d0e88182a.jpg)
+
+
+This project is an implementation of an elevator using Object Oriented Programming in C++
+
+The elevator carries people from one floor to another, based on the user's input. The project includes a UML design, OOP C++ code, and a GUI created using C++ Builder.
 
 ## UML Design:
 
@@ -22,9 +27,20 @@ The OOP C++ code for the elevator includes the implementation of the above class
 
 The GUI for the elevator was created using C++ Builder. It allows the user to interact with the elevator using buttons to call the elevator, select a floor, and start the elevator. The GUI is intuitive and easy to use, making it ideal for both experienced and novice users.
 
-
-This repository contains the implementation of an elevator using Object Oriented Programming in C++. The project includes a UML design, OOP C++ code, and a GUI created using C++ Builder. To run the code, simply compile the files and run the executable.
+The project includes a UML design, OOP C++ code, and a GUI created using C++ Builder. To run the code, simply compile the files and run the executable.
 
 If you find any issues or bugs, please create an issue in the repository. If you would like to contribute to the project, please fork the repository and create a pull request.
 
 Thank you for using our elevator simulation!
+
+## Contributors
+
+Evans Acheampong
+
+Amoah Ofori Darkwah
+
+Bani Beres Etornam  
+
+Edward Acquah
+
+Eyram Aheto
